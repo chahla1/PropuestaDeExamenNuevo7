@@ -8,6 +8,8 @@ using namespace std;
     for( a=1; a <= 100; a++){
         for(b=1; b <= 100; b++){
             // Calculamos el tercer lado c usando la fórmula del teorema de Pitágoras
+            c = sqrt(a * a + b * b);
+            //ahora verificamos si a, b y c forman un triple pitagorico
         }
 
         }
