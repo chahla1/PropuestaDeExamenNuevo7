@@ -12,6 +12,8 @@ using namespace std;
             //ahora verificamos si a, b y c forman un triple pitagorico
             if(c * c == a * a + b * b && a + b + c <= 100){
                 //si se cumplen las condiciones, se imprime el triple pitagorico
+                cout << a << " - " << b << " - " << c << endl;
+
         }
 
         }
