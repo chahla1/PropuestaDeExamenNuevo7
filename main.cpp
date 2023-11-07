@@ -7,6 +7,8 @@ using namespace std;
     //Utilizamos bucles para iterar a traves de valores potenciales para los lados del triangulo a y b.
     for( a=1; a <= 100; a++){
         for(b=1; b <= 100; b++){
+            // Calculamos el tercer lado c usando la fórmula del teorema de Pitágoras
+        }
 
         }
 
